@@ -123,5 +123,4 @@ function drop(dropevent) {
     }
    dataDrag.remove()
    
-
 }
