@@ -1,7 +1,7 @@
 # toDoList
 {reprograma} final project - module 2
 
-#### tecnologies used:
+#### Technologies used:
 * HTML
 * CSS
 * JavaScript
